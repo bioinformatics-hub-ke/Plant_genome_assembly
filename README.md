@@ -22,4 +22,5 @@ Are the descriptions in the methodology section detailed for reproducibility? If
 2. Landi Cofia - Assistant Lead
 3. Ken Mugambi
 4. Oscar Mwaura
+5. Alex Gashanja
 
