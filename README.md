@@ -16,6 +16,18 @@ Are you able to determine genome location associated with crucial agronomic trai
 Are you able to arrive at similar conclusions as those in the paper? Why or why not?
 Are the descriptions in the methodology section detailed for reproducibility? If not, what could you have done to improve reproducibility?
 
+## Workflow|Tools
+
+![image](https://user-images.githubusercontent.com/59683723/146538664-d29cdc02-e074-4b24-9bb6-8b9af347d984.png)
+
+## The Progress (17/12/21)
+
+![image](https://user-images.githubusercontent.com/59683723/146539019-3311e459-d7c1-4539-b29a-a9c5fc66fc21.png)
+
+## Challenges
+
+1. The authors have not provided the library preparation data, which is vital for the de-novo
+
 
 # Team
 1. Bernice Waweru - Project Lead
